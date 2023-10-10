@@ -1,6 +1,6 @@
 # Pull request template
 
-Fixes# (issues)
+Fixes # (issues)
 
 ## Description
 
